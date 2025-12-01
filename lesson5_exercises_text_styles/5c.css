@@ -1,0 +1,33 @@
+p {
+    font-family: Verdana;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.subtitle {
+    font-size: 18px;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    color: rgb(76, 76, 76);
+}
+
+.description {
+    font-size: 16px;
+    line-height: 20px;
+    width: 300px;
+}
+
+.button {
+    background-color: green;
+    width: 100px;
+    text-align: center;
+    padding: 10px 16px;
+    color: rgba(255, 255, 255, 0.87);
+    margin-top: 20px;
+    border-radius: 6px;
+}
