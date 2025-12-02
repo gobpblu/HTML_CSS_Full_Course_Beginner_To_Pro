@@ -1,0 +1,87 @@
+.a8 {
+    display: block;
+    margin-bottom: 4px;
+}
+
+.b8-text {
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+}
+
+.c8-logo {
+    width: 200px;
+    margin-left: 150px;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.c8-input {
+    border: none;
+    border-radius: 25px;
+    padding: 8px 10px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+    font-size: 12px;
+    width: 500px;
+}
+
+.d8-text-input {
+    width: 100px;
+    padding: 8px 8px;
+    border: 0.7px solid rgba(0, 0, 0, 0.4);
+    border-radius: 4px;
+}
+
+.d8-email-input {
+    width: 220px;
+    padding: 8px 8px;
+    border: 0.7px solid rgba(0, 0, 0, 0.4);
+    border-radius: 4px;
+    display: block;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.d8-button {
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    width: 236px;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-weight: bold;
+    margin-right: 16px;
+    display: block;
+}
+
+.e8-h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.e8-text-input {
+    width: 250px;
+    padding: 12px 16px;
+    border: none;
+    font-size: 12px;
+    background-color: rgba(240, 240, 240, 0.7);
+    margin-bottom: 8px;
+    display: block;
+}
+
+.e8-primary-button {
+    background-color: black;
+    color: white;
+    padding: 10px 16px;
+    font-size: 11px;
+    border: none;
+}
+
+.e8-secondary-button {
+    background-color: rgba(240, 240, 240, 0.8);
+    color: black;
+    padding: 10px 16px;
+    font-size: 11px;
+    border: none;
+    margin-left: 8px;
+}
