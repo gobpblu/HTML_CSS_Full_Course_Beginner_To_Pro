@@ -1,0 +1,143 @@
+.a9 {
+    width: 70px;
+    height: 70px;
+    background-color: red;
+}
+
+.b9 {
+    width: 70px;
+    height: 70px;
+    background-color: green;
+    border-radius: 100px;
+}
+
+.c9 {
+    border: 0.7px solid rgba(0, 0, 0, 0.3);
+    padding-left: 16px;
+    padding-bottom: 16px;
+}
+
+.d9 {
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    /* padding-top: 8px; */
+    padding-left: 12px;
+    width: 260px;
+}
+
+.d9-title {
+    padding-top: 12px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.d9-subtitle {
+    padding-bottom: 12px;
+    font-size: 12px;
+    color: #ddd;
+}
+
+.e9 {
+    width: 300px;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.f9 {
+    width: 100px;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+}
+
+.f9-image {
+    width: 100px;
+    height: 140px;
+}
+
+.f9-title {
+    padding-left: 4px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.f9-subtitle {
+    padding-left: 4px;
+    font-size: 11px;
+    color: gray;
+    margin-top: 0px;
+    margin-bottom: 4px;
+}
+
+.f9-button {
+    background-color: rgba(10, 105, 255, 0.9);
+    color: white;
+    font-size: 9px;
+    border: none;
+    border-radius: 2px;
+    padding: 6px 10px;
+    margin: 4px;
+}
+
+.g9 {
+    width: 120px;
+    display: inline-block;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+    margin-left: 8px;
+}
+
+.g9-image {
+    width: 120px;
+    height: 130px;
+}
+
+.g9-title {
+    padding-left: 4px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.g9-subtitle {
+    padding-left: 4px;
+    font-size: 11px;
+    color: gray;
+    margin-top: 0px;
+    margin-bottom: 4px;
+}
+
+.g9-button {
+    background-color: rgba(10, 105, 255, 0.9);
+    color: white;
+    font-size: 9px;
+    border: none;
+    border-radius: 2px;
+    padding: 6px 10px;
+    margin: 4px;
+}
+
+.h9 {
+    text-align: center;
+}
+
+.h9-logo {
+    width: 200px;
+    margin-bottom: 8px;
+}
+
+.h9-input {
+    border: none;
+    border-radius: 25px;
+    padding: 8px 10px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+    font-size: 12px;
+    width: 500px;
+}
+
+.h9-button {
+    text-align: center;
+    padding: 12px;
+    border: none;
+    margin-right: 8px;
+}
