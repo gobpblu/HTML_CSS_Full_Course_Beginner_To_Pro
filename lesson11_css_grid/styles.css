@@ -1,0 +1,63 @@
+.a11-grid {
+    display: grid;
+    grid-template-columns: 200px 75px;
+}
+
+.b11-grid {
+    display: grid;
+    grid-template-columns: 50px 1fr 75px;
+}
+
+.c11-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 10px;
+}
+
+.d11-grid {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    column-gap: 10px;
+}
+
+.d11-grid p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.d11-thumbnail {
+    width: 100%;
+    margin-bottom: 12px;
+}
+
+.d11-mutuals-grid {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 35px 1fr;
+    align-items: center;
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
+
+.e10-avatar {
+    width: 28px;
+    height: 28px;
+    border-radius: 100px;
+    vertical-align: middle;
+}
+
+.e10-subtitle-block {
+    font-size: 11px;
+    color: gray;
+}
+
+.e10-button {
+    background-color: rgba(10, 105, 255, 0.9);
+    color: white;
+    font-size: 9px;
+    border: none;
+    border-radius: 2px;
+    padding: 6px 10px;
+    margin: 4px;
+}
