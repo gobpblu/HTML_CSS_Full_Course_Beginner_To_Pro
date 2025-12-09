@@ -1,0 +1,184 @@
+.a12-flexbox {
+    display: flex;
+    flex-direction: row;
+}
+
+.a12-first-block {
+    width: 200px;
+    background-color: lightblue;
+}
+
+.a12-second-block {
+    width: 75px;
+    background-color: lightpink;
+}
+
+.b12-flexbox {
+    display: flex;
+    flex-direction: row;
+}
+
+.b12-first-block {
+    width: 50px;
+    background-color: lightblue;
+}
+
+.b12-second-block {
+    flex: 1;
+    background-color: lightpink;
+}
+
+.b12-third-block {
+    width: 75px;
+    background-color: lightblue;
+}
+
+.c12-flexbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.c12-block {
+    background-color: lightpink;
+}
+
+.d12-flexbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid gray;
+    height: 50px;
+    align-items: center;
+}
+
+.d12-block {
+    background-color: lightpink;
+}
+
+.e12-flexbox {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid gray;
+    border-radius: 4px;
+    height: 120px;
+    width: 300px;
+    padding: 8px;
+}
+
+.e12-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.e12-flexbox p {
+    font-size: 20px;
+    margin: 0px;
+}
+
+.e12-count {
+    padding: 4px 12px;
+    background-color: rgba(0, 0, 255, 0.7);
+    border-radius: 25px;
+    margin-right: 4px;
+    font-weight: bold;
+    color: white;
+}
+
+.f12-flexbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    max-width: 1000px;
+    background-color: rgb(105, 27, 178);
+}
+
+.f12-flexbox p {
+    margin: 0;
+    color: white;
+    font-size: 18px;
+    margin-left: 16px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.f12-input {
+    flex: 1;
+    max-width: 500px;
+    padding: 12px 20px;
+    border-radius: 25px;
+    border: none;
+    font-size: 15px;
+    margin: 0px 12px;
+}
+
+.f12-button {
+    border: 1px solid white;
+    color: white;
+    background-color: transparent;
+    margin-right: 8px;
+    padding: 10px 14px;
+    font-size: 18px;
+}
+
+.g12-flexbox {
+    display: flex;
+    flex-direction: column;
+    padding: 8px 16px;
+    width: 400px;
+}
+
+.g12-card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.g12-avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+}
+
+.g12-card-info {
+    margin-left: 16px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 70px;
+}
+
+.g12-card-info h4 {
+    color: gray;
+    font-size: 20px;
+    margin: 0px;
+    font-weight: normal;
+}
+
+.g12-card-info h5 {
+    color: black;
+    font-size: 20px;
+    margin: 0px;
+}
+
+.g12-card-info p {
+    color: gray;
+    font-size: 16px;
+    margin: 0px;
+}
+
+.g12-button {
+    border-radius: 4px;
+    background-color: rgb(56, 133, 241);
+    color: white;
+    border: none;
+    padding: 10px 16px;
+    font-weight: bold;
+}
