@@ -1,0 +1,167 @@
+.a13-flexbox {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+}
+
+.a13-item1 {
+    width: 100px;
+    background-color: lightpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.a13-item2 {
+    width: 200px;
+    background-color: lightblue;
+}
+
+.a13-item1 div {
+    background-color: black;
+    color: white;
+}
+
+.b13-flexbox {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+}
+
+.b13-left-row {
+    width: 100px;
+    background-color: lightpink;
+    display: flex;
+    justify-content: start;
+    align-items: top;
+}
+
+.b13-right-row {
+    width: 200px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.b13-right-column {
+    display: flex;
+    align-items: center;
+}
+
+.b13-black-text {
+    background-color: black;
+    color: white;
+}
+
+.c13-top-title {
+    font-size: 12px;
+    color: gray;
+}
+
+.c13-bottom-row {
+    margin-top: 16px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.c13-avatar {
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+}
+
+.c13-column-info {
+    margin-left: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.c13-top-title-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.c13-info-top-title {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.c13-time {
+    font-size: 12px;
+    color: gray;
+}
+
+.c13-bottom-title {
+    font-weight: bold;
+}
+
+.c13-description {
+    color: gray;
+    font-size: 13px;
+    margin-top: 2px;
+}
+
+.d13-top-title {
+    font-size: 12px;
+    color: gray;
+    margin-top: 4px;
+}
+
+.d13-bottom-row {
+    margin-top: 16px;
+    margin-left: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.d13-avatar {
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+}
+
+.d13-column-info {
+    margin-left: 8px;
+}
+
+.d13-top-title-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+}
+
+.d13-info-top-title {
+    font-weight: bold;
+    font-size: 18px;
+    flex: 1;
+}
+
+.d13-time {
+    font-size: 12px;
+    color: gray;
+}
+
+.d13-bottom-title {
+    font-weight: bold;
+}
+
+.d13-description {
+    color: gray;
+    font-size: 13px;
+    margin-top: 2px;
+}
+
+.e13-flexbox {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4);
+    width: 370px;
+    padding: 8px;
+    border-radius: 4px;
+}
